@@ -1,0 +1,963 @@
+.body {
+   margin: 0px;
+   padding: 0px;
+   background: #ccc;
+ 
+}
+ 
+.contner {
+   max-width: 100%;
+   margin: 0 auto;
+   width: 1270px;
+
+}
+  
+.divimg {
+   position: relative;
+   width: 100%;
+   height: 700px;
+   background-image: url(banner.png);
+   background-size: cover;
+}
+
+.h2h {
+   padding-top: 200px;
+   width: 100%;
+
+}
+
+.design {
+   color: #345542;
+   position: absolute;
+   width: 50%;
+   right: 25px;
+}
+
+.design h2 {
+   width: 100%;
+   padding-left: 100px;
+}
+
+.design p{
+   width: 90%;
+   padding-left: 110px;
+   font-size: 25px;
+   text-align: justify;
+   padding: 0px auto;
+
+}
+
+.mahesh {
+
+   background-color: white;
+
+   position: relative;
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+
+.front {
+   width: 100%;
+    
+   display: block;
+   overflow: hidden;
+    
+
+}
+
+.mah {
+   display: inline-block;
+   width: 49%;
+   color: #345542;
+   vertical-align: middle;
+   font-size: 30px;
+   text-align: justify;
+   font-family: 'Lora';
+   font-style: normal;
+   padding-left: 80px;
+}
+
+.sai {
+   padding-left: 70px;
+   display: inline-block;
+   width: 50%;
+   vertical-align: middle;
+   color: #345542;
+   font-size: 17px;
+   text-align: justify;
+   font-family: 'Lora';
+   font-style: normal;
+}
+
+
+
+.saini {
+   width: 100%;
+
+   height: auto;
+   position: relative;
+
+   background-color: #F6F2E3;
+}
+
+.ben {
+   text-align: center;
+   font-size: 25px;
+   color: #345542;
+   padding-top: 50px;
+
+
+}
+
+.ben p {
+   width: 50%;
+   margin: 0 auto;
+}
+
+.benefits_box {
+   width: 100%;
+   display: block;
+   overflow: hidden;
+   padding: 50px 0px 0px 0px;
+   padding-bottom: 50px;
+}
+
+.benefits_box .altmas {
+   width: 33%;
+   display: inline-block;
+   text-align: center;
+   font-size: 20px;
+   color: #345542;
+
+}
+
+.box {
+   padding-left: 40px;
+   text-align: center;
+}
+
+.maheshh1 {
+   font-size: 30px;
+   font-style: normal;
+   text-align: center;
+   margin-top: 50px;
+   color: #345542;
+}
+
+
+.image {
+   background-color: white;
+   position: relative;
+   width: 100%;
+
+}
+
+.add {
+   width: 100%;
+   display: block;
+   overflow: hidden;
+   padding: 50px 50px;
+
+}
+
+.imgbr {
+
+   width: 45%;
+   display: inline-block;
+   text-align: center;
+   font-size: 20px;
+   color: #345542;
+}
+
+.imgbr p {
+   padding-top: 10px;
+}
+
+.imgba p {
+   padding-top: 10px;
+}
+
+.imgba {
+   width: 45%;
+   display: inline-block;
+   text-align: center;
+   font-size: 20px;
+   color: #345542;
+   padding-left: 50px;
+
+}
+
+.image2 {
+   width: 100%;
+
+   position: relative;
+   background-color: #fffcf1;
+}
+
+.call {
+
+   width: 100%;
+   display: block;
+   overflow: hidden;
+   padding: 50px 50px;
+
+
+}
+
+.call p {
+   width: 50%;
+   text-align: justify;
+   display: inline-block;
+
+   font-size: 30px;
+   color: #345542;
+   padding-left: 70px;
+   padding-top: 60px;
+}
+
+.call img {
+   float: left;
+}
+
+
+.conter {
+   position: relative;
+   width: 100%;
+   height: 590px;
+   background-image: url(baby-girl.png);
+   background-size: cover;
+
+}
+
+.conterp {
+   width: 100%;
+   padding-top: 100px;
+}
+
+.conterp p {
+   width: 50%;
+   color: white;
+   font-size: 35px;
+   padding-top: 100px;
+   text-align: justify;
+}
+
+
+
+.next {
+   position: relative;
+   width: 100%;
+
+}
+
+.adder {
+   width: 100%;
+   padding-top: 100px;
+   padding-bottom: 50px;
+   display: block;
+   overflow: hidden;
+
+
+
+}
+
+.imgne {
+   width: 49%;
+   display: inline-block;
+   text-align: justify;
+   font-size: 20px;
+   color: #345542;
+   padding-left: 50px;
+
+
+}
+
+.aa {
+   position: relative;
+   width: 100%;
+   height: 528px;
+   background-image: url(bg.png);
+   background-size: cover;
+}
+
+.aaa {
+   width: 100%;
+   padding-top: 150px;
+
+
+}
+
+.aaa p {
+   text-align: justify;
+   width: 50%;
+   font-size: 30px;
+   color: white;
+   font-family: 'Lora';
+   font-style: normal;
+   padding-left: 200px;
+}
+
+.foter {
+   position: relative;
+   width: 100%;
+   background-color: white;
+
+
+}
+
+.fot {
+   width: 100%;
+   padding-bottom: 50px;
+   padding-top: 50px;
+   display: block;
+   overflow: hidden;
+}
+
+.foter1 {
+   width: 33%;
+   display: inline-block;
+   vertical-align: top;
+   font-size: 20px;
+   color: #345542;
+
+}
+
+.foter1 li {
+   list-style: none;
+   padding: 5px;
+
+}
+.ulm{
+   padding-left: 0px;
+}
+
+.ulm li {
+   list-style: none;
+   display: inline-block;
+   color: black;
+   font-size: 25px;
+   padding: 10px;
+   
+}
+
+.ulm a {
+   color: black;
+}
+
+input {
+   width: 90%;
+   color: #988654;
+   padding: 10px;
+   margin-bottom: 10px;
+   border: 1px solid #C6A760;
+}
+
+button {
+   background-color: #C6A760;
+   border: 0.5px solid #988654;
+   color: #fff;
+   padding: 10px 20px;
+   margin-top: 10px !important;
+
+}
+
+.foter3 {
+   width: 100%;
+   padding-top: 20px;
+   padding-bottom: 50px
+}
+
+.foter3 li {
+   list-style: none;
+   display: inline-block;
+   padding: 10px;
+
+}
+
+.foter3 a {
+   color: #345542;
+}
+
+@media screen and (max-width: 768px) {
+
+   body {
+      margin: 0px;
+   }
+
+   .navbar1 {
+      width: 100%;
+      height: auto;
+   }
+
+   .aaa p {
+      padding-left: 0px;
+   }
+
+   .heading {
+      width: 100%;
+   }
+
+   .nav {
+      width: 100%;
+   }
+
+   .icon {
+      width: 100%;
+   }
+
+   .logo {
+
+      width: 100%;
+   }
+
+   .divimg {
+
+      width: 100%;
+      height: 380px;
+
+   }
+
+   .h2h {
+
+      width: 100%;
+      padding-top: 40px;
+      text-align: center;
+
+   }
+
+   .design {
+      width: 100%;
+      padding-left: 0px;
+
+
+   }
+
+   .design h2 {
+      width: 100%;
+      padding-left: 0px;
+      font-size: 30px;
+
+   }
+
+   .design p {
+      width: 100%;
+      text-align: inherit;
+      padding-left: 0px;
+      font-size: 20px;
+
+
+   }
+
+   .front {
+      width: 100%;
+
+
+   }
+
+   .mahesh {
+      padding-bottom: 0px;
+      padding-top: 0px;
+   }
+
+   .mah {
+
+      width: 100%;
+      padding-left: 0px;
+
+      font-size: 25px;
+
+   }
+
+   .sai {
+
+      width: 100%;
+      padding-left: 0px;
+      font-size: 17px;
+}
+.saini {
+      width: 100%;}
+.ben p {
+      width: 100%;
+
+   }
+
+   .benefits_box {
+      width: 100%;
+      padding-bottom: 35px;
+
+   }
+
+   .benefits_box .altmas {
+      width: 100%;
+
+
+
+   }
+
+   .box {
+      padding-left: 0px;
+   }
+
+   .image {
+
+      width: 100%;
+
+   }
+
+   .add {
+      width: 100%;
+      padding-left: 0px;
+      padding-right: 0px;
+
+
+   }
+
+   .imgbr {
+
+      width: 100%;
+   }
+
+   .imgbr img {
+      width: 355px;
+   }
+
+   .imgba img {
+      width: 355px;
+   }
+
+   .imgba {
+      width: 100%;
+      padding-left: 0px;
+
+   }
+
+   .image2 {
+      width: 100%;
+
+
+   }
+
+   .call {
+
+      width: 100%;
+      padding-left: 0px;
+      padding-right: 0px;
+
+   }
+
+   .call p {
+      width: 100%;
+      padding-left: 0px;
+      font-size: 25px;
+
+   }
+
+   .call img {
+      width: 390px;
+      height: 308px;
+   }
+
+
+
+   .conter {
+
+      width: 100%;
+      height: 380px;
+      background-position: center center;
+
+   }
+
+   .conterp {
+      width: 100%;
+      padding-top: 0px;
+
+
+   }
+
+   .conterp p {
+      width: 100%;
+      font-size: 25px;
+
+   }
+
+
+
+   .next {
+
+      width: 100%;
+
+   }
+
+   .adder {
+      width: 100%;
+
+
+
+
+   }
+
+   .imgne {
+      width: 100%;
+      padding-left: 0px;
+      text-align: center;
+
+
+   }
+
+   .aa {
+      height: 380px;
+      width: 100%;
+      background-position: center center;
+
+   }
+
+   .aaa {
+      width: 100%;
+      padding-top: 50px;
+
+
+
+
+   }
+
+   .aaa p {
+      width: 100%;
+      font-size: 25px;
+
+   }
+
+   .foter {
+
+      width: 100%;
+       
+
+
+   }
+
+   .fot {
+      width: 100%;
+      padding-bottom: 0px;
+
+   }
+
+   .foter1 {
+      width: 100%;
+
+
+   }
+
+   input {
+      width: 90%;
+
+   }
+
+
+   .foter3 {
+      width: 100%;
+
+   }
+
+   .contner {
+      max-width: inherit;
+      width: auto;
+      padding: 0px 20px;
+   }
+
+}
+
+@media screen and (max-width: 991px) {
+
+   body {
+      margin: 0px;
+   }
+
+   .navbar1 {
+      width: 100%;
+      height: auto;
+   }
+
+   .aaa p {
+      padding-left: 0px;
+   }
+
+   .heading {
+      width: 100%;
+   }
+
+   .nav {
+      width: 100%;
+   }
+
+   .icon {
+      width: 100%;
+   }
+
+   .logo {
+
+      width: 100%;
+   }
+
+   .divimg {
+
+      width: 100%;
+      height: 380px;
+
+   }
+
+   .h2h {
+
+      width: 100%;
+      padding-top: 40px;
+      text-align: center;
+
+   }
+
+   .design {
+      width: 100%;
+      padding-left: 0px;
+
+
+   }
+
+   .design h2 {
+      width: 100%;
+      padding-left: 0px;
+      font-size: 30px;
+
+   }
+
+   .design p {
+      width: 100%;
+      text-align: inherit;
+      padding-left: 0px;
+      font-size: 20px;
+
+
+   }
+
+   .front {
+      width: 100%;
+
+
+   }
+
+   .mahesh {
+      padding-bottom: 0px;
+      padding-top: 0px;
+   }
+
+   .mah {
+
+      width: 100%;
+      padding-left: 0px;
+
+      font-size: 25px;
+
+   }
+
+   .sai {
+
+      width: 100%;
+      padding-left: 0px;
+      font-size: 17px;
+
+   }
+
+
+   .saini {
+      width: 100%;
+
+
+   }
+
+   
+
+
+
+   .ben p {
+      width: 100%;
+
+   }
+
+   .benefits_box {
+      width: 100%;
+      padding-bottom: 35px;
+
+   }
+
+   .benefits_box .altmas {
+      width: 100%;
+
+
+
+   }
+
+   .box {
+      padding-left: 0px;
+   }
+
+   .image {
+
+      width: 100%;
+
+   }
+
+   .add {
+      width: 100%;
+      padding-left: 0px;
+      padding-right: 0px;
+
+
+   }
+
+   .imgbr {
+
+      width: 100%;
+   }
+
+   .imgbr img {
+      width: 355px;
+   }
+
+   .imgba img {
+      width: 355px;
+   }
+
+   .imgba {
+      width: 100%;
+      padding-left: 0px;
+
+   }
+
+   .image2 {
+      width: 100%;
+
+
+   }
+
+   .call {
+
+      width: 100%;
+      padding-left: 0px;
+      padding-right: 0px;
+
+   }
+
+   .call p {
+      width: 100%;
+      padding-left: 0px;
+      font-size: 25px;
+
+   }
+
+   .call img {
+      width: 390px;
+      height: 308px;
+   }
+
+
+
+   .conter {
+
+      width: 100%;
+      height: 380px;
+      background-position: center center;
+
+   }
+
+   .conterp {
+      width: 100%;
+      padding-top: 0px;
+
+
+   }
+
+   .conterp p {
+      width: 100%;
+      font-size: 25px;
+
+   }
+
+
+
+   .next {
+
+      width: 100%;
+
+   }
+
+   .adder {
+      width: 100%;
+
+
+
+
+   }
+
+   .imgne {
+      width: 100%;
+      padding-left: 0px;
+      text-align: center;
+
+
+   }
+
+   .aa {
+      height: 380px;
+      width: 100%;
+      background-position: center center;
+
+   }
+
+   .aaa {
+      width: 100%;
+      padding-top: 50px;
+
+
+
+
+   }
+
+   .aaa p {
+      width: 100%;
+      font-size: 25px;
+
+   }
+
+   .foter {
+
+      width: 100%;
+     
+
+
+   }
+
+   .fot {
+      width: 100%;
+      padding-bottom: 0px;
+      
+   }
+
+   .foter1 {
+      width: 100%;
+        }
+   
+         
+   input {
+      width: 90%;
+
+   }
+
+
+   .foter3 {
+      width: 100%;
+
+   }
+
+   .contner {
+      max-width: inherit;
+      width: auto;
+      padding: 0px 20px;
+   }
+
+}
